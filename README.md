@@ -39,6 +39,7 @@ Este proyecto fue realizado para <a href="http://devchallenges.io" target="_blan
  - Responsive Desing
 
 # Despliegue 📦
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c5928e65-5f06-42ef-9ac4-da89c2875cfa/deploy-status)](https://eddie-home-page.netlify.app/src/)
 
 # Autor
 
