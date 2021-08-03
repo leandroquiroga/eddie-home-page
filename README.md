@@ -27,13 +27,6 @@
 # Eddie Home Page
 Este proyecto fue realizado para <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a> para superar los objetivos de la primera etapa de la seccion Responsive Web Developer. 
 
-<!-- OVERVIEW -->
-
-# Proyecto Finalizado
-
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-
 # Construido con 🛠️
 - HTML5
 - CSS3
